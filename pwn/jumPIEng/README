@@ -1,0 +1,4 @@
+main_func = 11a9
+success = 1262
+
+Use this offset to calculate where success is with respect to main function address.
